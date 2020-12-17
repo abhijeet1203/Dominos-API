@@ -1,0 +1,18 @@
+{
+  "name": "dominos",
+  "version": "1.0.0",
+  "description": "Developing a Dominos API for Welcome and Contact endpoints",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "Dominos",
+    "API"
+  ],
+  "author": "Abhijeet Banerjee",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
